@@ -61,3 +61,8 @@ Conditional Execution: Allow testators to specify conditions for the distributio
 Executor Designation: Implement a feature to allow the testator to designate a specific executor to manage the will execution process.
 
 Notifications: Implement a notification system to alert beneficiaries when the will is executed.
+
+Contract Address: 0x9D5C6f4e980A29A168B2D593828bD6362Ad7952C
+
+![image](https://github.com/user-attachments/assets/79897476-6e0f-4a84-9138-9a9b585d082c)
+
